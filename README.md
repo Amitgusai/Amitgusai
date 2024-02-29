@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fhow-photorealistic-avatar-technology-bridges-gap-lifelike-purohit&psig=AOvVaw3zNAJKK78Q76bwy1RPsdaX&ust=1709318230259000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPD1j-OY0YQDFQAAAAAdAAAAABAD)
+[![MasterHead](https://www.eff.org/files/banner_library/23faafd5-8296-4ae4-98d2-ed4175caaf27.png)
 <h1 align="center">Hi 👋, I'm Amit Gusai</h1>
 <h3 align="center">A passionate coding enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">

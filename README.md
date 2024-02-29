@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![MasterHead]([https://8f430952.rocketcdn.me/wp-content/uploads/2020/05/github_codespaces.jpg](https://media.licdn.com/dms/image/D4D12AQH2Qi8MDR9tdA/article-cover_image-shrink_720_1280/0/1693207368159?e=2147483647&v=beta&t=FntTqcdWEVpHVUYHhPfOC7B8xctdmZ4QukYFomnjSoU))
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fhow-photorealistic-avatar-technology-bridges-gap-lifelike-purohit&psig=AOvVaw3zNAJKK78Q76bwy1RPsdaX&ust=1709318230259000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPD1j-OY0YQDFQAAAAAdAAAAABAD)
 <h1 align="center">Hi 👋, I'm Amit Gusai</h1>
 <h3 align="center">A passionate coding enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">

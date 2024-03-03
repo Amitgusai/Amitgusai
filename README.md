@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[!MasterHead](https://www.eff.org/files/banner_library/23faafd5-8296-4ae4-98d2-ed4175caaf27.png)
+[![MasterHead](https://www.eff.org/files/banner_library/23faafd5-8296-4ae4-98d2-ed4175caaf27.png)
 <h1 align="center">Hi 👋, I'm Amit Gusai</h1>
 <h3 align="center">A passionate coding enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
